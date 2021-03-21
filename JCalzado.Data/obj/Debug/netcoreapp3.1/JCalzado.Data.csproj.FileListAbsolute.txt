@@ -1,0 +1,15 @@
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\bin\Debug\netcoreapp3.1\JCalzado.Data.deps.json
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\bin\Debug\netcoreapp3.1\JCalzado.Data.runtimeconfig.json
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\bin\Debug\netcoreapp3.1\JCalzado.Data.runtimeconfig.dev.json
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\bin\Debug\netcoreapp3.1\JCalzado.Data.dll
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\bin\Debug\netcoreapp3.1\JCalzado.Data.pdb
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.csprojAssemblyReference.cache
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.AssemblyInfoInputs.cache
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.AssemblyInfo.cs
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.dll
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.pdb
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.genruntimeconfig.cache
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\bin\Debug\netcoreapp3.1\JCalzado.Models.dll
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\bin\Debug\netcoreapp3.1\JCalzado.Models.pdb
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.csproj.CopyComplete
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Data\obj\Debug\netcoreapp3.1\JCalzado.Data.csproj.CoreCompileInputs.cache

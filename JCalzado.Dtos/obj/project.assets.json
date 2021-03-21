@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JCalzado.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/JCalzado.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JCalzado.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JCalzado.Models/1.0.0": {
+      "type": "project",
+      "path": "../JCalzado.Models/JCalzado.Models.csproj",
+      "msbuildProject": "../JCalzado.Models/JCalzado.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "JCalzado.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ProyectoProgramación\\Web APIs Profesionales con .NET Core\\JCalzado\\JCalzado.Dtos\\JCalzado.Dtos.csproj",
+      "projectName": "JCalzado.Dtos",
+      "projectPath": "D:\\ProyectoProgramación\\Web APIs Profesionales con .NET Core\\JCalzado\\JCalzado.Dtos\\JCalzado.Dtos.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "D:\\ProyectoProgramación\\Web APIs Profesionales con .NET Core\\JCalzado\\JCalzado.Dtos\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\ProyectoProgramación\\Web APIs Profesionales con .NET Core\\JCalzado\\JCalzado.Models\\JCalzado.Models.csproj": {
+              "projectPath": "D:\\ProyectoProgramación\\Web APIs Profesionales con .NET Core\\JCalzado\\JCalzado.Models\\JCalzado.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JCalzado.Dtos/1.0.0": {
+        "dependencies": {
+          "JCalzado.Models": "1.0.0"
+        },
+        "runtime": {
+          "JCalzado.Dtos.dll": {}
+        }
+      },
+      "JCalzado.Models/1.0.0": {
+        "runtime": {
+          "JCalzado.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JCalzado.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JCalzado.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

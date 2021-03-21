@@ -1,0 +1,12 @@
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\bin\Debug\netcoreapp3.1\JCalzado.Dtos.deps.json
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\bin\Debug\netcoreapp3.1\JCalzado.Dtos.dll
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\bin\Debug\netcoreapp3.1\JCalzado.Dtos.pdb
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\obj\Debug\netcoreapp3.1\JCalzado.Dtos.AssemblyInfoInputs.cache
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\obj\Debug\netcoreapp3.1\JCalzado.Dtos.AssemblyInfo.cs
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\obj\Debug\netcoreapp3.1\JCalzado.Dtos.csproj.CoreCompileInputs.cache
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\obj\Debug\netcoreapp3.1\JCalzado.Dtos.dll
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\obj\Debug\netcoreapp3.1\JCalzado.Dtos.pdb
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\obj\Debug\netcoreapp3.1\JCalzado.Dtos.csprojAssemblyReference.cache
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\bin\Debug\netcoreapp3.1\JCalzado.Models.dll
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\bin\Debug\netcoreapp3.1\JCalzado.Models.pdb
+D:\ProyectoProgramación\Web APIs Profesionales con .NET Core\JCalzado\JCalzado.Dtos\obj\Debug\netcoreapp3.1\JCalzado.Dtos.csproj.CopyComplete
